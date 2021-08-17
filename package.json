@@ -1,0 +1,28 @@
+{
+  "name": "NodeExpressTutorial",
+  "version": "1.0.0",
+  "description": "Tutorial Link: https://www.youtube.com/watch?v=Oe421EPjeBE",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenyihehehe/NodeExpressTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenyihehehe/NodeExpressTutorial/issues"
+  },
+  "homepage": "https://github.com/wenyihehehe/NodeExpressTutorial#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
